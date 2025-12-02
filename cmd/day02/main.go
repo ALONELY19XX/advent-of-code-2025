@@ -13,7 +13,6 @@ func main() {
 
 	data, err := os.ReadFile(path)
 	if err != nil {
-
 		panic(err)
 	}
 
