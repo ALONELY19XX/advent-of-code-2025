@@ -18,10 +18,22 @@ go run ./cmd/day01/main.go
 
 ### Prerequisite
 
-Put the input of day 1 into `inputs/day-02.txt`
+Put the input of day 2 into `inputs/day-02.txt`
 
 ### Get Solutions (only part 1 atm)
 
 ```bash
 go run ./cmd/day02/main.go
+```
+
+## Day 3
+
+### Prerequisite
+
+Put the input of day 3 into `inputs/day-03.txt`
+
+### Get Solutions (only part 1 atm)
+
+```bash
+go run ./cmd/day03/main.go
 ```
